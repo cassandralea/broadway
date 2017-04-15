@@ -23,9 +23,13 @@ p {font-size: 14px;
 }
 
 .white {color: white;
+  background-image: url(resources/the-flatiron-building.png);
 }
 
 .footer {font-size: 11px;
 color: white;
 background-color: dimgray;
+}
+
+.header-bg {background-image: url(resources/the-flatiron-building.png);
 }
